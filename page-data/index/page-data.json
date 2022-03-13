@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/maguro-coffee/static/de5bfce85ccce07d945eaa0e666f23e3/thumbnail-650-918.pbew","relativePath":"Ichiya Kagiri no Ayamachi 1/thumbnail-650-918.pbew","name":"thumbnail-650-918"}},{"node":{"publicURL":"/maguro-coffee/static/27f369d963a992fa400666014a7da68a/thumbnail-650-918.pbew","relativePath":"Ichiya Kagiri no Ayamachi 2/thumbnail-650-918.pbew","name":"thumbnail-650-918"}},{"node":{"publicURL":"/maguro-coffee/static/cec12938ed4ec24af9dfe11744b64581/thumbnail-650-918.pbew","relativePath":"Konya Otto no Joushi ni Dakare ni Ikimasu/thumbnail-650-918.pbew","name":"thumbnail-650-918"}},{"node":{"publicURL":"/maguro-coffee/static/52eef430f3658690dd71f8d07f989672/thumbnail-650-918.pbew","relativePath":"Swapping Koushuu/thumbnail-650-918.pbew","name":"thumbnail-650-918"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
